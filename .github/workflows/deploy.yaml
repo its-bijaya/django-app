@@ -1,4 +1,4 @@
-name: Deploy app to Docker Hub
+name: Deploy django app to Docker Hub
 
 on: 
  push:
